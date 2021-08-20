@@ -1,1 +1,2 @@
-su betty Script that changes your user ID to betty
+#!/bin/bash
+A script that prints the absolute path name of the current working directory.
