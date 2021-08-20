@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp$:pwd
+ ./0 -pwd
