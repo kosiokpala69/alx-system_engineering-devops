@@ -1,1 +1,0 @@
-to print the word
